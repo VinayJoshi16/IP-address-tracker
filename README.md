@@ -29,7 +29,10 @@ This webpage allows users to
 - Find their own IP address on the map on the initial page load. 
 Users can also search for any IP addresses or domains and see the key information and location.
 
-## My process
+## Author 
+<b><strong>Vinay Joshi</strong><b>
+-Email - Vinay.joshi1608@gmail.com
+
 
 ### Built with
 
@@ -87,3 +90,4 @@ This project is great at understanding how to execute basic CSS features like fl
         border: none;
     }
 }
+
